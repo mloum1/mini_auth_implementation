@@ -1,14 +1,9 @@
 # Projet sur la sécurité web.
 
-## Lien pour la génération de l'ASCII du projet
+## Lien pour la génération d'un ASCII pour votre application
 
-https://patorjk.com/software/taag/#p=display&v=1&f=Doom&t=SECURITE%20WEB
+https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 
-## Informations de base de données oubliées.
+1. Copier le texte et ajouter le dans src/ressources/banner.txt . Ce fichier est à créer.
 
-Arreter du service mysql
-
-    sudo systemctl stop mysql
-
-## Utilisation des users en base de données pour le auth.
-
+## Technologies
