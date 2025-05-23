@@ -28,7 +28,7 @@ public class UtilisateurController {
     }
 
     @GetMapping("/private/admin")
-    @PreAuthorize("hasRole('ADMIn')")
+    @PreAuthorize("hasRole('ADMIN')")
     public String routePourAdminAndOther() {
         return "For admins";
     }
